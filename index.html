@@ -428,8 +428,6 @@ function getRadius(voters,zoom){
 
 /* LOAD DATA */
 
-/* LOAD DATA */
-
 fetch("data.json")
 .then(response => response.json())
 .then(data => {
@@ -535,6 +533,8 @@ map.on("zoomend",()=>{
     markers.forEach(m=>{
         m.marker.setRadius(getRadius(m.voters,zoom));
     });
+
+});
 
     /* KEEP POPUPS FULLY VISIBLE BETWEEN PANELS */
 
