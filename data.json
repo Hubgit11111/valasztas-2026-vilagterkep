@@ -1,6 +1,6 @@
 {
   "PvOnHeader" : {
-    "generated" : "2026-03-15T05:00:00.7542954+01:00",
+    "generated" : "2026-03-16T05:00:00.799896295+01:00",
     "val_dat" : "2026-04-12T00:00:00+02:00",
     "vl_id" : 467,
     "nvv_id" : 542
@@ -22,7 +22,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 280
+    "letszam" : 283
   }, {
     "orszag" : "DZA",
     "taz" : "002",
@@ -94,7 +94,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 36
+    "letszam" : 38
   }, {
     "orszag" : "KAZ",
     "taz" : "006",
@@ -130,7 +130,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 247
+    "letszam" : 257
   }, {
     "orszag" : "AZE",
     "taz" : "008",
@@ -148,7 +148,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 24
+    "letszam" : 25
   }, {
     "orszag" : "THA",
     "taz" : "009",
@@ -166,7 +166,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 229
+    "letszam" : 234
   }, {
     "orszag" : "ESP",
     "taz" : "010",
@@ -184,7 +184,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 933
+    "letszam" : 978
   }, {
     "orszag" : "AUT",
     "taz" : "011",
@@ -202,7 +202,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 1400
+    "letszam" : 1461
   }, {
     "orszag" : "LBN",
     "taz" : "012",
@@ -238,7 +238,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 40
+    "letszam" : 41
   }, {
     "orszag" : "UKR",
     "taz" : "014",
@@ -256,7 +256,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "2026. március 28-tól április 10-ig minden nap 7.00 órától 21.00 óráig, április 11-én 7.00 órától 22.00 óráig, április 12-én 6.00 és 19.00 óra között",
     "szlcs_lead_ido" : "2026. március 28-tól április 10-ig minden nap 7.00 órától 21.00 óráig, április 11-én 7.00 órától 22.00 óráig, április 12-én 6.00 és 19.00 óra között",
-    "letszam" : 180
+    "letszam" : 184
   }, {
     "orszag" : "DEU",
     "taz" : "015",
@@ -274,7 +274,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 1465
+    "letszam" : 1517
   }, {
     "orszag" : "CHE",
     "taz" : "016",
@@ -292,7 +292,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 2265
+    "letszam" : 2389
   }, {
     "orszag" : "BRA",
     "taz" : "017",
@@ -328,7 +328,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 1449
+    "letszam" : 1497
   }, {
     "orszag" : "ARG",
     "taz" : "019",
@@ -364,7 +364,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 55
+    "letszam" : 58
   }, {
     "orszag" : "AUS",
     "taz" : "021",
@@ -382,7 +382,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 28
+    "letszam" : 31
   }, {
     "orszag" : "ROU",
     "taz" : "022",
@@ -400,7 +400,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "2026. március 28-tól április 10-ig minden nap 7.00 órától 21.00 óráig, április 11-én 7.00 órától 22.00 óráig, április 12-én 6.00 és 19.00 óra között",
     "szlcs_lead_ido" : "2026. március 28-tól április 10-ig minden nap 7.00 órától 21.00 óráig, április 11-én 7.00 órától 22.00 óráig, április 12-én 6.00 és 19.00 óra között",
-    "letszam" : 1064
+    "letszam" : 1080
   }, {
     "orszag" : "CHN",
     "taz" : "023",
@@ -418,7 +418,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 64
+    "letszam" : 65
   }, {
     "orszag" : "QAT",
     "taz" : "024",
@@ -436,7 +436,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 68
+    "letszam" : 69
   }, {
     "orszag" : "IRL",
     "taz" : "025",
@@ -454,7 +454,7 @@
     "idotartam" : "6-18",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 18 óra között",
-    "letszam" : 1197
+    "letszam" : 1237
   }, {
     "orszag" : "HRV",
     "taz" : "026",
@@ -490,7 +490,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 3712
+    "letszam" : 3856
   }, {
     "orszag" : "VNM",
     "taz" : "028",
@@ -508,7 +508,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 121
+    "letszam" : 129
   }, {
     "orszag" : "CUB",
     "taz" : "029",
@@ -526,7 +526,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 5
+    "letszam" : 7
   }, {
     "orszag" : "FIN",
     "taz" : "030",
@@ -544,7 +544,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 526
+    "letszam" : 535
   }, {
     "orszag" : "CHN",
     "taz" : "031",
@@ -562,7 +562,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 111
+    "letszam" : 115
   }, {
     "orszag" : "PAK",
     "taz" : "032",
@@ -598,7 +598,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 128
+    "letszam" : 136
   }, {
     "orszag" : "IDN",
     "taz" : "034",
@@ -616,7 +616,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 80
+    "letszam" : 81
   }, {
     "orszag" : "RUS",
     "taz" : "035",
@@ -652,7 +652,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 71
+    "letszam" : 72
   }, {
     "orszag" : "SVK",
     "taz" : "037",
@@ -688,7 +688,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 14
+    "letszam" : 17
   }, {
     "orszag" : "MDA",
     "taz" : "039",
@@ -724,7 +724,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "2026. március 28-tól április 10-ig minden nap 7.00 órától 21.00 óráig, április 11-én 7.00 órától 22.00 óráig, április 12-én 6.00 és 19.00 óra között",
     "szlcs_lead_ido" : "2026. március 28-tól április 10-ig minden nap 7.00 órától 21.00 óráig, április 11-én 7.00 órától 22.00 óráig, április 12-én 6.00 és 19.00 óra között",
-    "letszam" : 298
+    "letszam" : 308
   }, {
     "orszag" : "DNK",
     "taz" : "041",
@@ -742,7 +742,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 1610
+    "letszam" : 1673
   }, {
     "orszag" : "KWT",
     "taz" : "043",
@@ -760,7 +760,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 25
+    "letszam" : 30
   }, {
     "orszag" : "PRT",
     "taz" : "044",
@@ -778,7 +778,7 @@
     "idotartam" : "6-18",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 18 óra között",
-    "letszam" : 476
+    "letszam" : 489
   }, {
     "orszag" : "SVN",
     "taz" : "045",
@@ -796,7 +796,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 160
+    "letszam" : 171
   }, {
     "orszag" : "GBR",
     "taz" : "046",
@@ -814,7 +814,7 @@
     "idotartam" : "6-18",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 18 óra között",
-    "letszam" : 4796
+    "letszam" : 5005
   }, {
     "orszag" : "USA",
     "taz" : "047",
@@ -832,7 +832,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 258
+    "letszam" : 270
   }, {
     "orszag" : "ESP",
     "taz" : "048",
@@ -850,7 +850,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 715
+    "letszam" : 748
   }, {
     "orszag" : "AUS",
     "taz" : "049",
@@ -868,7 +868,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 180
+    "letszam" : 187
   }, {
     "orszag" : "MEX",
     "taz" : "050",
@@ -904,7 +904,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 573
+    "letszam" : 605
   }, {
     "orszag" : "BLR",
     "taz" : "052",
@@ -940,7 +940,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 71
+    "letszam" : 72
   }, {
     "orszag" : "DEU",
     "taz" : "054",
@@ -958,7 +958,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 2441
+    "letszam" : 2572
   }, {
     "orszag" : "KEN",
     "taz" : "055",
@@ -994,7 +994,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 799
+    "letszam" : 836
   }, {
     "orszag" : "NOR",
     "taz" : "058",
@@ -1012,7 +1012,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 565
+    "letszam" : 580
   }, {
     "orszag" : "CAN",
     "taz" : "059",
@@ -1048,7 +1048,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 1006
+    "letszam" : 1052
   }, {
     "orszag" : "CHN",
     "taz" : "061",
@@ -1066,7 +1066,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 130
+    "letszam" : 132
   }, {
     "orszag" : "MNE",
     "taz" : "062",
@@ -1102,7 +1102,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 60
+    "letszam" : 63
   }, {
     "orszag" : "CZE",
     "taz" : "064",
@@ -1120,7 +1120,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 356
+    "letszam" : 375
   }, {
     "orszag" : "ZAF",
     "taz" : "065",
@@ -1138,7 +1138,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 33
+    "letszam" : 34
   }, {
     "orszag" : "XKX",
     "taz" : "066",
@@ -1156,7 +1156,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 168
+    "letszam" : 170
   }, {
     "orszag" : "MAR",
     "taz" : "067",
@@ -1174,7 +1174,7 @@
     "idotartam" : "6-18",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 18 óra között",
-    "letszam" : 66
+    "letszam" : 69
   }, {
     "orszag" : "LVA",
     "taz" : "068",
@@ -1210,7 +1210,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 34
+    "letszam" : 33
   }, {
     "orszag" : "ITA",
     "taz" : "070",
@@ -1228,7 +1228,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 637
+    "letszam" : 657
   }, {
     "orszag" : "CHN",
     "taz" : "071",
@@ -1246,7 +1246,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 109
+    "letszam" : 117
   }, {
     "orszag" : "CHL",
     "taz" : "072",
@@ -1264,7 +1264,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 31
+    "letszam" : 32
   }, {
     "orszag" : "BRA",
     "taz" : "073",
@@ -1300,7 +1300,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 790
+    "letszam" : 821
   }, {
     "orszag" : "SRB",
     "taz" : "075",
@@ -1318,7 +1318,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "2026. március 28-tól április 10-ig minden nap 7.00 órától 21.00 óráig, április 11-én 7.00 órától 22.00 óráig, április 12-én 6.00 és 19.00 óra között",
     "szlcs_lead_ido" : "2026. március 28-tól április 10-ig minden nap 7.00 órától 21.00 óráig, április 11-én 7.00 órától 22.00 óráig, április 12-én 6.00 és 19.00 óra között",
-    "letszam" : 286
+    "letszam" : 290
   }, {
     "orszag" : "BIH",
     "taz" : "076",
@@ -1336,7 +1336,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 90
+    "letszam" : 92
   }, {
     "orszag" : "RUS",
     "taz" : "077",
@@ -1372,7 +1372,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 148
+    "letszam" : 154
   }, {
     "orszag" : "MKD",
     "taz" : "079",
@@ -1390,7 +1390,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 32
+    "letszam" : 34
   }, {
     "orszag" : "BGR",
     "taz" : "080",
@@ -1408,7 +1408,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 80
+    "letszam" : 82
   }, {
     "orszag" : "KOR",
     "taz" : "081",
@@ -1426,7 +1426,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 237
+    "letszam" : 240
   }, {
     "orszag" : "GEO",
     "taz" : "084",
@@ -1498,7 +1498,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 70
+    "letszam" : 74
   }, {
     "orszag" : "JPN",
     "taz" : "088",
@@ -1516,7 +1516,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 327
+    "letszam" : 344
   }, {
     "orszag" : "CAN",
     "taz" : "089",
@@ -1534,7 +1534,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 267
+    "letszam" : 277
   }, {
     "orszag" : "TUN",
     "taz" : "091",
@@ -1552,7 +1552,7 @@
     "idotartam" : "6-18",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 18 óra között",
-    "letszam" : 19
+    "letszam" : 20
   }, {
     "orszag" : "IND",
     "taz" : "092",
@@ -1570,7 +1570,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 30
+    "letszam" : 33
   }, {
     "orszag" : "UKR",
     "taz" : "093",
@@ -1606,7 +1606,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 209
+    "letszam" : 214
   }, {
     "orszag" : "LTU",
     "taz" : "095",
@@ -1642,7 +1642,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 322
+    "letszam" : 335
   }, {
     "orszag" : "HRV",
     "taz" : "097",
@@ -1714,7 +1714,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 119
+    "letszam" : 127
   }, {
     "orszag" : "IND",
     "taz" : "101",
@@ -1750,7 +1750,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 13
+    "letszam" : 14
   }, {
     "orszag" : "IRQ",
     "taz" : "103",
@@ -1786,7 +1786,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 48
+    "letszam" : 50
   }, {
     "orszag" : "MNG",
     "taz" : "105",
@@ -1822,7 +1822,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 1300
+    "letszam" : 1358
   }, {
     "orszag" : "DEU",
     "taz" : "107",
@@ -1840,7 +1840,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 2038
+    "letszam" : 2137
   }, {
     "orszag" : "NZL",
     "taz" : "108",
@@ -1858,7 +1858,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 86
+    "letszam" : 92
   }, {
     "orszag" : "VNM",
     "taz" : "109",
@@ -1876,7 +1876,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 48
+    "letszam" : 49
   }, {
     "orszag" : "USA",
     "taz" : "110",
@@ -1894,7 +1894,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 209
+    "letszam" : 219
   }, {
     "orszag" : "USA",
     "taz" : "111",
@@ -1912,7 +1912,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 189
+    "letszam" : 200
   }, {
     "orszag" : "AGO",
     "taz" : "112",
@@ -1948,7 +1948,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 261
+    "letszam" : 273
   }, {
     "orszag" : "ETH",
     "taz" : "114",
@@ -1984,7 +1984,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 37
+    "letszam" : 38
   }, {
     "orszag" : "GHA",
     "taz" : "116",
@@ -2002,7 +2002,7 @@
     "idotartam" : "6-17",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 17 óra között",
-    "letszam" : 8
+    "letszam" : 9
   }, {
     "orszag" : "GBR",
     "taz" : "117",
@@ -2020,7 +2020,7 @@
     "idotartam" : "6-18",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március  30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 18 óra között",
-    "letszam" : 1122
+    "letszam" : 1166
   }, {
     "orszag" : "RUS",
     "taz" : "118",
@@ -2056,7 +2056,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 34
+    "letszam" : 36
   }, {
     "orszag" : "UZB",
     "taz" : "120",
@@ -2074,7 +2074,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 18
+    "letszam" : 19
   }, {
     "orszag" : "COL",
     "taz" : "121",
@@ -2092,7 +2092,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 23
+    "letszam" : 24
   }, {
     "orszag" : "GBR",
     "taz" : "122",
@@ -2110,7 +2110,7 @@
     "idotartam" : "6-18",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 18 óra között",
-    "letszam" : 758
+    "letszam" : 785
   }, {
     "orszag" : "USA",
     "taz" : "124",
@@ -2128,7 +2128,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 120
+    "letszam" : 125
   }, {
     "orszag" : "USA",
     "taz" : "125",
@@ -2146,7 +2146,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 376
+    "letszam" : 387
   }, {
     "orszag" : "AUT",
     "taz" : "126",
@@ -2164,7 +2164,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 897
+    "letszam" : 933
   }, {
     "orszag" : "CYP",
     "taz" : "127",
@@ -2182,7 +2182,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 187
+    "letszam" : 196
   }, {
     "orszag" : "EST",
     "taz" : "128",
@@ -2200,7 +2200,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 89
+    "letszam" : 94
   }, {
     "orszag" : "FRA",
     "taz" : "129",
@@ -2218,7 +2218,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 260
+    "letszam" : 275
   }, {
     "orszag" : "KHM",
     "taz" : "130",
@@ -2254,7 +2254,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 141
+    "letszam" : 145
   }, {
     "orszag" : "POL",
     "taz" : "132",
@@ -2272,7 +2272,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 53
+    "letszam" : 54
   }, {
     "orszag" : "LUX",
     "taz" : "133",
@@ -2290,7 +2290,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 602
+    "letszam" : 619
   }, {
     "orszag" : "MLT",
     "taz" : "134",
@@ -2308,7 +2308,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 367
+    "letszam" : 379
   }, {
     "orszag" : "OMN",
     "taz" : "135",
@@ -2326,7 +2326,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 27
+    "letszam" : 28
   }, {
     "orszag" : "PAN",
     "taz" : "136",
@@ -2344,7 +2344,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 22
+    "letszam" : 23
   }, {
     "orszag" : "UGA",
     "taz" : "138",
@@ -2362,7 +2362,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 4
+    "letszam" : 5
   }, {
     "orszag" : "URY",
     "taz" : "139",
@@ -2416,7 +2416,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 832
+    "letszam" : 865
   }, {
     "orszag" : "SVK",
     "taz" : "143",
@@ -2470,7 +2470,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 218
+    "letszam" : 222
   }, {
     "orszag" : "CAN",
     "taz" : "146",
@@ -2488,7 +2488,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 11-én 6 és 19 óra között",
-    "letszam" : 89
+    "letszam" : 91
   }, {
     "orszag" : "CHN",
     "taz" : "147",
@@ -2542,7 +2542,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 62
+    "letszam" : 64
   }, {
     "orszag" : "PSE",
     "taz" : "150",
@@ -2578,7 +2578,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 674
+    "letszam" : 704
   }, {
     "orszag" : "CHE",
     "taz" : "152",
@@ -2596,7 +2596,7 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 318
+    "letszam" : 328
   }, {
     "orszag" : "ZMB",
     "taz" : "154",
@@ -2722,6 +2722,6 @@
     "idotartam" : "6-19",
     "szlcs_atvet_ido" : "-",
     "szlcs_lead_ido" : "2026. március 30-tól április 10-ig munkanapokon 9 és 16 óra között, illetve április 12-én 6 és 19 óra között",
-    "letszam" : 143
+    "letszam" : 147
   } ]
 }
