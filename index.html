@@ -536,6 +536,57 @@ map.on("zoomend",()=>{
 
 });
 
+/* KEEP POPUPS VISIBLE BETWEEN PANELS */
+
+map.on("popupopen", function(e){
+
+    setTimeout(function(){
+
+        const popupEl = e.popup.getElement();
+        if(!popupEl) return;
+
+        const popupRect = popupEl.getBoundingClientRect();
+        const mapRect = map.getContainer().getBoundingClientRect();
+
+        const header = document.querySelector(".headerBox");
+        const cities = document.querySelector(".topCities");
+        const footer = document.querySelector(".footer");
+
+        let topLimit = header ? header.getBoundingClientRect().bottom + 10 : mapRect.top;
+        let bottomLimit = cities ? cities.getBoundingClientRect().top - 10 : mapRect.bottom;
+
+        if(footer){
+            const footerTop = footer.getBoundingClientRect().top - 10;
+            if(footerTop < bottomLimit) bottomLimit = footerTop;
+        }
+
+        let dx = 0;
+        let dy = 0;
+
+        if(popupRect.top < topLimit){
+            dy = popupRect.top - topLimit;
+        }
+
+        if(popupRect.bottom > bottomLimit){
+            dy = popupRect.bottom - bottomLimit;
+        }
+
+        if(popupRect.left < mapRect.left){
+            dx = popupRect.left - mapRect.left;
+        }
+
+        if(popupRect.right > mapRect.right){
+            dx = popupRect.right - mapRect.right;
+        }
+
+        if(dx !== 0 || dy !== 0){
+            map.panBy([dx, dy], {animate:true});
+        }
+
+    },50);
+
+});
+    
 </script>
 
 </body>
