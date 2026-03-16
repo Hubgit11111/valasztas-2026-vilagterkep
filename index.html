@@ -455,11 +455,25 @@ places.forEach(place=>{
 
     });
 
-    circle.bindPopup(createPopup(place),{
-    autoPan:true,
-    autoPanPaddingTopLeft:[320,180],
-    autoPanPaddingBottomRight:[320,220]
-    });
+    let popupOptions;
+    
+    if(window.innerWidth < 700){
+        // mobile
+        popupOptions = {
+            autoPan:true,
+            autoPanPaddingTopLeft:[20,120],
+            autoPanPaddingBottomRight:[20,140]
+        };
+    }else{
+        // desktop
+        popupOptions = {
+            autoPan:true,
+            autoPanPaddingTopLeft:[320,180],
+            autoPanPaddingBottomRight:[320,220]
+        };
+    }
+    
+    circle.bindPopup(createPopup(place), popupOptions);
 
     circle.on("mouseover",function(){
         this.setStyle({weight:2,fillOpacity:0.8});
