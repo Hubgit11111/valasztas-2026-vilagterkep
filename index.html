@@ -457,7 +457,9 @@ places.forEach(place=>{
     });
 
     circle.bindPopup(createPopup(place),{
-    offset: L.point(0,-40)
+    autoPan:true,
+    autoPanPaddingTopLeft:[0,120],
+    autoPanPaddingBottomRight:[0,160]
     });
 
     circle.on("mouseover",function(){
